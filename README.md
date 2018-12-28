@@ -1,6 +1,8 @@
 ## Demo1 
 ### python的报表模块练习
 #### 导入模块
+
+
 ```
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
@@ -8,6 +10,7 @@ __author__ = "xumeng"
 __date__ = "2018/12/27 22:45"
 from pyecharts import Bar,Pie,Scatter,Gauge,WordCloud
 ```
+
 
 #### 直方图
 ```
@@ -58,8 +61,6 @@ gauge = Gauge('业务指标完成率-仪表盘')
 gauge.add('业务指标','完成率',88.8)
 gauge.render()
 ```
-
-
 
 
 #### 词云图
