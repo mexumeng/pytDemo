@@ -65,7 +65,7 @@ gauge = Gauge('业务指标完成率-仪表盘')
 gauge.add('业务指标','完成率',88.8)
 gauge.render()
 ```
-![myqr](http://pjwvkfdq5.bkt.clouddn.com/%E4%B8%9A%E5%8A%A1%E6%8C%87%E6%A0%87%E5%AE%8C%E6%88%90%E7%8E%87-%E4%BB%AA%E8%A1%A8%E7%9B%98.png)
+![myqr](http://pjwvkfdq5.bkt.clouddn.com/%E4%B8%9A%E5%8A%A1%E6%8C%87%E6%A0%87%E5%AE%8C%E6%88%90%E7%8E%87\-%E4%BB%AA%E8%A1%A8%E7%9B%98.png)
 
 
 #### 词云图
