@@ -22,6 +22,7 @@ bar.add("商家A",arr,v1,is_stack=True)
 bar.add("商家B",arr,v2,is_stack=True)
 bar.render()
 ```
+![myqr](https://upload-images.jianshu.io/upload_images/13297094-c29f9e3a6671da25.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 #### 饼形图
