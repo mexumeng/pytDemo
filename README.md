@@ -76,4 +76,4 @@ worldcloud = WordCloud(width=1000,height=1000)
 worldcloud.add('',name,value,word_size_range=[20,100])
 worldcloud.render()
 ```
-![myqr](http://pjwvkfdq5.bkt.clouddn.com/%E8%AF%8D%E4%BA%91%E5%9B%BE.png)
+![mypic](http://pjwvkfdq5.bkt.clouddn.com/%E8%AF%8D%E4%BA%91%E5%9B%BE.png)
